@@ -1,11 +1,11 @@
 # Eigenvalues dan Eigenvector
 
-##1. Definisi Eigenvalues dan Eigenvector
+## 1. Definisi Eigenvalues dan Eigenvector
 
 1. Eigenvalue adalah skala (angka) yang menyatakan berapa kali panjang eigenvector berubah karena transformasi itu.
 2. Eigenvector adalah vektor spesial yang tidak berubah arah saat transformasi—panjangnya bisa berubah (diperbesar atau diperkecil), tapi arahnya tetap.
 
-##2. Mencari Eigenvalues dan Eigenvector menggikan Polynomial Carakteristik 
+## 2. Mencari Eigenvalues dan Eigenvector menggikan Polynomial Carakteristik 
 ### 1. Matriks A
 
 Pertama-tama Bentuk $A - \lambda I$
